@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Konnecta](https://github.com/ajmalroshan5476/konnecta)
 
-- 🌱 I’m currently learning **Node,NextJS,Low level design**
+- 🌱 I’m currently learning **Node,NextJS and Low level design**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **Python or Javascript**
 
 - 📫 How to reach me **ajmalroshanav9@gmail.com**
 
